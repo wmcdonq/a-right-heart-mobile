@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "A Right Heart",
+    "slug": "a-right-heart",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#D9A87C"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.arightheart.app",
+      "buildNumber": "1",
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#D9A87C"
+      },
+      "package": "com.arightheart.app"
+    }
+  }
+}
