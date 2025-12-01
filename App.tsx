@@ -12,9 +12,9 @@ import { WebView } from 'react-native-webview';
 import * as SplashScreen from 'expo-splash-screen';
 
 // ============================================
-// CONFIGURATION - UPDATE THIS WITH YOUR URL
+// CONFIGURATION - YOUR DEPLOYED APP URL
 // ============================================
-const APP_URL = 'https://YOUR-APP-NAME.replit.app';
+const APP_URL = 'https://right-heart-app--wmcdona3.replit.app';
 // ============================================
 
 SplashScreen.preventAutoHideAsync();
